@@ -4,13 +4,8 @@
 #include <stdio.h>
 
 void positive_or_negative(int i);
-<<<<<<< HEAD
-
-#endif /* MAIN_H */
-=======
 int largest_number(int a, int b, int c);
 int convert_day(int month, int day);
-void printf_remaining_days(int month, int day, int year);
+void print_remaining_days(int month, int day, int year);
 
 #endif
->>>>>>> 45be11af121c3023039d4863f9594912f4ee88ad
