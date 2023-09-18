@@ -2,6 +2,10 @@
 
 /**
 * main - causes an infinite loop
+*
+* This function causes an infinite loop if uncommented.
+* It is used to demonstrate the concept of infinite loops.
+*
 * Return: 0
 */
 
