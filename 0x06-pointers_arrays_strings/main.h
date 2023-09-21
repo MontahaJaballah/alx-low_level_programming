@@ -1,6 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
+<<<<<<< HEAD
 #include <stdio.h>
+=======
+
+#include <stdio.h>
+
+>>>>>>> bc971a0496d3fba600f657d8061f7f404b483f3e
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
